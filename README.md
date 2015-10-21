@@ -1,10 +1,12 @@
 ﻿# Back To The Future - Time Machine
 
-## How to build
+## How to build and run
 
+```shell
 mvn clean install
 cd target
 java -jar timemachine-1.0.0.jar
+```
 
 ## How to play
 
